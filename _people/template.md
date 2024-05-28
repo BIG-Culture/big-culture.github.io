@@ -8,4 +8,4 @@ category: academics #academics, associates, or students
 related_publications: true
 ---
 
-Put your details heere
+Put your details here
