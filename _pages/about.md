@@ -1,9 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+permalink: /about/
+subtitle: BIG Culture
 profile:
   align: right
   image: prof_pic.jpg
