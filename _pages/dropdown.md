@@ -5,9 +5,9 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: BIG Lab
+  - title: BIGLab
     permalink: http://biglab.co.uk/
   - title: divider
-  - title: University of Bristol
+  - title: UniversityofBristol
     permalink: https://www.bristol.ac.uk/
 ---
