@@ -253,7 +253,7 @@ defaults:
   - scope:
       path: "assets"
     values:
-      sitemap: true
+      sitemap: false
 
 sass:
   style: compressed
