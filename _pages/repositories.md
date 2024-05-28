@@ -2,10 +2,11 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: 
+description:
 nav: true
 nav_order: 4
 ---
+
 <!--- Edit the `_data/repositories.yml` file to modify this page. -->
 <!--- Add your username to `github_users` to add your account -->
 <!--- Add a repo link to `github_repos` to show an important repo -->
