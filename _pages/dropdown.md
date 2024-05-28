@@ -8,9 +8,6 @@ children:
   - title: BIG Lab
     permalink: http://biglab.co.uk/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: University of Bristol
+    permalink: https://www.bristol.ac.uk/
 ---
