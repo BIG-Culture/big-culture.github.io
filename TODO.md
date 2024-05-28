@@ -29,3 +29,4 @@
 - [ ] Discuss description (config)
 - [ ] Discuss repo theme (config)
 - [ ] Discuss RSS
+- [ ] Discuss blog format (millenial)
