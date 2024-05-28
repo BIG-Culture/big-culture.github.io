@@ -6,6 +6,7 @@ description: Our new website is now live at big-culture.github.io
 tags: website_updates
 categories: sample-posts
 tabs: true
+giscus_comments: true
 ---
 
 This is how a post with [tabs](https://github.com/Ovski4/jekyll-tabs) looks like. Note that the tabs could be used for different purposes, not only for code.
