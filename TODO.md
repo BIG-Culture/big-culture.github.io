@@ -21,3 +21,4 @@
 - [ ] Discuss icon
 - [ ] Discuss repos
 - [ ] Discuss description (blog)
+- [ ] Discuss project tags
