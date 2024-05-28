@@ -20,3 +20,4 @@
 - [ ] Add website to original al-folio list of labs
 - [ ] Discuss icon
 - [ ] Discuss repos
+- [ ] Discuss description (blog)
