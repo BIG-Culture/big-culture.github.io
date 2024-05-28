@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /about/
+nav: false
 subtitle: BIG Culture
 profile:
   align: right
