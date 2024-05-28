@@ -22,3 +22,4 @@
 - [ ] Discuss repos
 - [ ] Discuss description (blog)
 - [ ] Discuss project tags
+- [ ] Fix blog tag errors
