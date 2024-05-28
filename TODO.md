@@ -1,0 +1,16 @@
+# Website TODOs
+- [ ] Select tags for blog posts
+- [ ] Select categories for blog posts
+- [ ] Identify RSS feeds
+- [ ] Choose theme
+- [ ] Choose homepage (blog/about/projects)
+- [ ] Update people
+- [ ] Discuss publications
+- [ ] Fix BIGCulture button issue
+- [ ] Sort homepage
+- [ ] Remove existing publications
+- [ ] Discuss selected publication
+- [ ] Identify quick links
+- [ ] Discuss footer
+- [ ] Discuss readme
+- [ ] Discuss email
