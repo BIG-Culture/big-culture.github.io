@@ -1,9 +1,9 @@
 ---
 layout: post
-title: a post with tabs
-date: 2024-05-01 00:32:13
-description: this is what included tabs in a post could look like
-tags: formatting code
+title: BIG-Culture Website Goes Live
+date: 2024-05-28 15:13:13
+description: Our new website is now live at big-culture.github.io
+tags: website_updates
 categories: sample-posts
 tabs: true
 ---
