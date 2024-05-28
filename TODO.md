@@ -24,3 +24,8 @@
 - [ ] Discuss project tags
 - [ ] Fix blog tag errors
 - [ ] Standardised size for People and Projects images
+- [ ] Discuss keywords (config)
+- [ ] Discuss title (config)
+- [ ] Discuss description (config)
+- [ ] Discuss repo theme (config)
+- [ ] Discuss RSS
