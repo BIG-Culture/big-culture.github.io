@@ -23,3 +23,4 @@
 - [ ] Discuss description (blog)
 - [ ] Discuss project tags
 - [ ] Fix blog tag errors
+- [ ] Standardised size for People and Projects images
