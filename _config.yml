@@ -131,7 +131,7 @@ bing_site_verification: F6B76A94DB2D1F349240696196EFF2E0 # out your bing-site-ve
 
 blog_name: BIG Culture # blog_name will be displayed in your blog page
 blog_description: Blog
-permalink: /blog/:year/:title/
+permalink: /:year/:title/
 lsi: true # produce an index for related posts
 
 # Pagination
