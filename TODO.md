@@ -30,3 +30,4 @@
 - [ ] Discuss repo theme (config)
 - [ ] Discuss RSS
 - [ ] Discuss blog format (millenial)
+- [ ] Remove blog from header
