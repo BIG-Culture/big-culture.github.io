@@ -14,3 +14,5 @@
 - [ ] Discuss footer
 - [ ] Discuss readme
 - [ ] Discuss email
+- [ ] Sort co-authors
+- [ ] Sort venues
