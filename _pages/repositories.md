@@ -7,10 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-<!--- Edit the `_data/repositories.yml` file to modify this page. -->
-<!--- Add your username to `github_users` to add your account -->
-<!--- Add a repo link to `github_repos` to show an important repo -->
-
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
