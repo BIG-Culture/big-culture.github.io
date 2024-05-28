@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
+title: Other Links
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: BIG Lab
+    permalink: http://biglab.co.uk/
   - title: divider
   - title: projects
     permalink: /projects/
