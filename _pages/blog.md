@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /
-title: blog
 nav: false
 # nav_order: 1
 pagination:
