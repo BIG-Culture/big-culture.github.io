@@ -4,8 +4,10 @@ The files for BIG-Culture's website, hosted at [big-culture.github.io](https://b
 Built using the [al-folio](https://github.com/alshedivat/al-folio) theme for [Jekyll](https://jekyllrb.com/).
 
 ## How to Contribute
-
-Guide to getting started with website (WiP)
+1. Download [GitHub Desktop](https://desktop.github.com/)
+2. Clone this repository [(guide)](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop#cloning-a-repository)
+3. Edit and add content as required (an IDE such as [WebStorm](https://www.jetbrains.com/webstorm/) or [VSCode](https://code.visualstudio.com/) is suggested) 
+4. Push your changes [(guide)](https://docs.github.com/en/desktop/making-changes-in-a-branch/pushing-changes-to-github-from-github-desktop)
 
 ## Adding Content
 
