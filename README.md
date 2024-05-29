@@ -1,6 +1,6 @@
 # BIG-Culture Website
 
-The files for BIG-Culture's website, hosted at [big-culture.github.io](https://big-culture.github.io/).
+This is the repository for [BIG-Culture's website](https://big-culture.github.io/).
 Built using the [al-folio](https://github.com/alshedivat/al-folio) theme for [Jekyll](https://jekyllrb.com/).
 
 ## How to Contribute
