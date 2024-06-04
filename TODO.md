@@ -2,7 +2,6 @@
 
 - [ ] Identify RSS feeds
 - [ ] Choose theme
-- [ ] Discuss selected publication
 - [ ] Identify quick links
 - [ ] Sort co-authors
 - [ ] Sort venues
