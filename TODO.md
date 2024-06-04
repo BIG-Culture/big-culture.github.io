@@ -9,8 +9,6 @@
 - [ ] Remove existing publications
 - [ ] Discuss selected publication
 - [ ] Identify quick links
-- [ ] Discuss footer
-- [ ] Discuss readme
 - [ ] Discuss email
 - [ ] Sort co-authors
 - [ ] Sort venues
@@ -25,4 +23,3 @@
 - [ ] Discuss description (config)
 - [ ] Discuss repo theme (config)
 - [ ] Discuss RSS
-- [ ] Discuss blog format (millenial)
