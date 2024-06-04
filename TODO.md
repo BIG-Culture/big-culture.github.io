@@ -7,10 +7,9 @@
 - [ ] Sort venues
 - [ ] Discuss icon
 - [ ] Discuss description (blog)
-- [ ] Discuss project tags
-- [ ] Standardised size for People and Projects images
 - [ ] Discuss keywords (config)
 - [ ] Discuss title (config)
 - [ ] Discuss description (config)
 - [ ] Discuss repo theme (config)
 - [ ] Discuss RSS
+- [ ] Sort  Open Graph & Schema.org
