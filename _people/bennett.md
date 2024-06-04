@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Person
-description: brief intro
-img: assets/img/12.jpg
+title: Pete Bennett
+description: Lecturer, interested in playful interfaces, tangible interaction and generative music.
+img: assets/img/people/bennett.jpg
 importance: 1
 category: academics #academics, associates, or students
 related_publications: true
 ---
 
-Put your details here
+[www.peteinfo.com](www.peteinfo.com)
