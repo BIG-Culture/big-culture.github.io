@@ -8,3 +8,4 @@ featured: false
 redirect: https://quest.mit.edu/news/intersensory-data-representations-black-hole
 thumbnail: assets/img/blog/blackhole.png
 ---
+Redirect to [https://quest.mit.edu/news/intersensory-data-representations-black-hole](https://quest.mit.edu/news/intersensory-data-representations-black-hole)
