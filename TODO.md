@@ -1,8 +1,6 @@
 # Website TODOs
 
-- [ ] Identify RSS feeds
 - [ ] Choose theme
-- [ ] Identify quick links
 - [ ] Sort co-authors
 - [ ] Sort venues
 - [ ] Discuss icon
@@ -12,4 +10,4 @@
 - [ ] Discuss description (config)
 - [ ] Discuss repo theme (config)
 - [ ] Discuss RSS
-- [ ] Sort  Open Graph & Schema.org
+- [ ] Sort Open Graph & Schema.org
