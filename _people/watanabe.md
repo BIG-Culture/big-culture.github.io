@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Person
-description: brief intro
-img: assets/img/12.jpg
+title: Mamoru Watnaabe
+description: PhD student at Bristol Interaction Group
+img: assets/img/mw_profile.png
 importance: 1
-category: academics #academics, associates, or students
-related_publications: true
+redirect: http://mamoruwatanabe.com/
+category: students #academics, associates, or students
+related_publications: false
 ---
 
 Put your details here
