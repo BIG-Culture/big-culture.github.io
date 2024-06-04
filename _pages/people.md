@@ -5,7 +5,7 @@ title: people
 description: members of the lab or group
 nav: true
 nav_order: 2
-display_categories: [academics, associates, students]
+display_categories: [academics, students]
 horizontal: true
 ---
 
