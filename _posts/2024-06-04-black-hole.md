@@ -10,4 +10,5 @@ giscus_comments: true
 redirect: https://quest.mit.edu/news/intersensory-data-representations-black-hole
 thumbnail: assets/img/blog/blackhole.png
 ---
+
 ss
