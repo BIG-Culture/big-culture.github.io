@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: people
-description: staff and students engaged in BIG-Culture, a sub-group of <a href='http://biglab.co.uk/'>BIG Lab</a>
+description: staff and students engaged in BIG-Culture
 nav: true
 nav_order: 2
 display_categories: [academics, students]
