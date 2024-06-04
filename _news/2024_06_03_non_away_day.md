@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The BIG Non-Away Day is on Thursday 13th June, at 13:30 in MVB 1.11.
+The BIG Non-Away Day is on Thursday 13th June, at 13:30 in MVB 1.11
