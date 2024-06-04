@@ -283,7 +283,7 @@ jekyll-archives:
     category: "/category/:name/"
 
 display_tags: ["event", "listening", "reading", "viewing"] # these tags will be displayed on the front page of your blog
-display_categories: ["conferences", "minutes", "talks"] # these categories will be displayed on the front page of your blog
+display_categories: ["conferences", "talks"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
