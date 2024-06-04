@@ -282,8 +282,8 @@ jekyll-archives:
     tag: "/tag/:name/"
     category: "/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_tags: ["event", "listening", "reading", "viewing"] # these tags will be displayed on the front page of your blog
+display_categories: ["conferences", "minutes", "talks"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
