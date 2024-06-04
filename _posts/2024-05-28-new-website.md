@@ -3,8 +3,6 @@ layout: post
 title: BIG-Culture Website Goes Live
 date: 2024-05-28 15:13:13
 description: Our new website is now live at big-culture.github.io
-tags: website_updates
-categories: sample-posts
 featured: false
 tabs: true
 giscus_comments: true
