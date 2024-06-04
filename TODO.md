@@ -2,19 +2,11 @@
 
 - [ ] Identify RSS feeds
 - [ ] Choose theme
-- [ ] Update people
-- [ ] Discuss publications
-- [ ] Fix BIGCulture button issue
-- [ ] Sort homepage
-- [ ] Remove existing publications
 - [ ] Discuss selected publication
 - [ ] Identify quick links
-- [ ] Discuss email
 - [ ] Sort co-authors
 - [ ] Sort venues
-- [ ] Add website to original al-folio list of labs
 - [ ] Discuss icon
-- [ ] Discuss repos
 - [ ] Discuss description (blog)
 - [ ] Discuss project tags
 - [ ] Standardised size for People and Projects images
