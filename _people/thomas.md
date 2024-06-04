@@ -8,4 +8,4 @@ category: students #academics, associates, or students
 related_publications: true
 ---
 
-Put your details here
+PhD student researching immersive arts and technologies in Bristol Interaction Group
