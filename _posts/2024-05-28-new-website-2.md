@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example post 
+title: Example post
 date: 2024-05-29 15:13:13
 description: Example
 tags: website_updates
