@@ -33,6 +33,7 @@ To add publications, create a new entry in the [\_bibliography/papers.bib](_bibl
 You can add extra information to a publication, like a PDF file in the `assets/pdfs/` directory and add the path to the PDF file in the BibTeX entry with the `pdf` field. Some of the supported fields are: `abstract`, `altmetric`, `arxiv`, `bibtex_show`, `blog`, `code`, `dimensions`, `doi`, `eprint`, `html`, `isbn`, `pdf`, `pmid`, `poster`, `slides`, `supp`, `video`, and `website`.
 
 An example of adding additional fields can be seen in sensabubble:
+
 ```
 bibtex_show={true},
 pdf = {https://dl.acm.org/doi/pdf/10.1145/2556288.2557087},
@@ -42,6 +43,7 @@ html = {https://doi.org/10.1145/2556288.2557087},
 video = {https://www.youtube.com/watch?v=JGUmf4HqTxM},
 abbr = {CHI}
 ```
+
 ## Current TODOs
 
 Current TODOs can be found in [TODO](TODO.md)
