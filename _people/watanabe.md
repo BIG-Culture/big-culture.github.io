@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mamoru Watnaabe
+title: Mamoru Watanabe
 description: PhD student at Bristol Interaction Group
 img: assets/img/people/mw_profile.png
 importance: 3
