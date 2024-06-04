@@ -1,10 +1,7 @@
 # Website TODOs
 
-- [ ] Select tags for blog posts
-- [ ] Select categories for blog posts
 - [ ] Identify RSS feeds
 - [ ] Choose theme
-- [ ] Choose homepage (blog/about/projects)
 - [ ] Update people
 - [ ] Discuss publications
 - [ ] Fix BIGCulture button issue
@@ -22,7 +19,6 @@
 - [ ] Discuss repos
 - [ ] Discuss description (blog)
 - [ ] Discuss project tags
-- [ ] Fix blog tag errors
 - [ ] Standardised size for People and Projects images
 - [ ] Discuss keywords (config)
 - [ ] Discuss title (config)
