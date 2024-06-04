@@ -9,4 +9,4 @@ related_publications: false
 ---
 ---
 
-Put your details here
+Interactive AI CDT PhD student, with a background in theoretical physics. My primary research interests are in the involvement of generative AI tools in table-top role-playing games. I am also interested in AI based solutions to physics problems, both theoretical and applied. 
