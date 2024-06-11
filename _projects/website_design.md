@@ -1,8 +1,8 @@
 ---
 layout: page
-title: website design
+title: Website Design
 description: help design the BIG Culture Website
-img: assets/img/CULTURE.png
+img: assets/img/Culture.png
 importance: 1
 category: ongoing
 related_publications: false
