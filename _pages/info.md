@@ -1,6 +1,6 @@
 ---
 layout: about
-title: information
+title: info
 permalink: /info/
 nav: false
 subtitle: BIG Culture
