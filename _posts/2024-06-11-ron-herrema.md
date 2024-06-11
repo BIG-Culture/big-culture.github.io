@@ -2,7 +2,7 @@
 layout: post
 title: Ron Herrema talk
 date: 2024-06-11 14:00:00
-description: Today we had a talk from <a href="https://ronherrema.net/">Ron Herrema</a> on a phenomenological approach to writing computer code
+description: Today we had a talk from Ron Herrema on a phenomenological approach to writing computer code
 tags: event
 categories: talks
 featured: true
