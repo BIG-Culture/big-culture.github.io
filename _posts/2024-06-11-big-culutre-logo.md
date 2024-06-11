@@ -22,4 +22,5 @@ Add the below code to the Logos section of this page, replacing LOGO_NAME.EXT wi
 ```
 
 # Logos
+
 {% include figure.liquid loading="eager" path="assets/img/blog/logos/logo1.png" class="img-fluid rounded z-depth-1" %} {% include figure.liquid path="assets/img/blog/logos/logo2.png" class="img-fluid rounded z-depth-1" zoomable=true %} {% include figure.liquid path="assets/img/blog/logos/logo3.png" class="img-fluid rounded z-depth-1" zoomable=true %} {% include figure.liquid path="assets/img/blog/logos/logo4.png" class="img-fluid rounded z-depth-1" zoomable=true %}
