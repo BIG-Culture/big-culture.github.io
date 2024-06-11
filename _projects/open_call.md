@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Upload your open projects
-description: 
+description:
 img: assets/img/BIG.png
 importance: 1
 category: open
