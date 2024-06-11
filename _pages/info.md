@@ -1,7 +1,7 @@
 ---
 layout: about
-title: about
-permalink: /about/
+title: information
+permalink: /info/
 nav: false
 subtitle: BIG Culture
 news: true # includes a list of news items
