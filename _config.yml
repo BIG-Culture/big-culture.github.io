@@ -133,6 +133,7 @@ blog_name: BIG Culture # blog_name will be displayed in your blog page
 blog_description: a sub-group of <a href='http://biglab.co.uk/'>BIG Lab</a>
 permalink: /:year/:title/
 lsi: true # produce an index for related posts
+future: true
 
 # Pagination
 pagination:
