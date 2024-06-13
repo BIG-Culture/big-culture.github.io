@@ -7,7 +7,7 @@ first_name: BIG
 last_name: Culture
 email: peter.bennett@bristol.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  The blog and website for BIG-Culture, a lab within the Bristol Interaction Group.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -130,7 +130,7 @@ bing_site_verification: F6B76A94DB2D1F349240696196EFF2E0 # out your bing-site-ve
 # -----------------------------------------------------------------------------
 
 blog_name: BIG Culture # blog_name will be displayed in your blog page
-blog_description: a Lab within <a href='http://biglab.co.uk/'>BIG Group</a>
+blog_description: a Lab within <a href='http://biglab.co.uk/'>BIG</a>
 permalink: /:year/:title/
 lsi: true # produce an index for related posts
 future: true
