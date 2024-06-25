@@ -9,4 +9,4 @@ category: academics #academics, associates, or students
 related_publications: true
 ---
 
-Dr Atau Tanaka is visiting Professor of Sonic Interaction in the [Bristol Interaction Group (BIG)] (http://biglab.co.uk/)
+Dr Atau Tanaka is visiting Professor of Sonic Interaction in the [Bristol Interaction Group (BIG)](http://biglab.co.uk/)
