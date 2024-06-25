@@ -6,6 +6,22 @@
   - firstname: ["Jack", "J."]
     url: https://jackjburnett.github.io/
 
+"joshi":
+  - firstname: ["Vishal", "V."]
+    url: https://big-culture.github.io/people/joshi/
+
 "tanaka":
   - firstname: ["Atau", "A."]
     url: https://big-culture.github.io/people/tanaka/
+
+"thomas":
+  - firstname: ["Jacob", "J."]
+    url: https://big-culture.github.io/people/thomas/
+
+"thorne":
+  - firstname: ["Nate", "N."]
+    url: https://big-culture.github.io/people/thorne/
+
+"watanabe":
+  - firstname: ["Mamoru", "M."]
+    url: https://big-culture.github.io/people/watanabe/
