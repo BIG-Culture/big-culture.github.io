@@ -42,7 +42,7 @@ Dr Herrema then explored his early history of algorithmic composition, focusing 
 
 Dr Herrema then explored his early history of algorithmic composition, focusing on pieces such as _Analogies_ (2001 which was made using AC Toolbox) - a lisp (list processing) based software developed by Paul Berg. This piece was preceded by _Changing Weights_ in (2000) which is also the name of a function in AC Toolbox. His more recent works involve _Music for Being_ (2012), _Dancing Wu Wei_ and _Infinity_ (2017), developed using Reaktor and OpenFrameworks in conjunction with AC Toolbox. Following _Infinity_ Ron accepted the Southwest Creative Technology Network Automation Fellowship (2018-2019). His primary research as part of this Fellowship:
 
-This, compounded by his encounter with _Understanding Media - The Extensions of Man_ by Marshall MacLuhan lead to the development of _Code as Prosthesis_ , a practice led research project. Why prosthesis? Etymologically, prosthesis finds its roots in prostithenai, from pros 'in addition' + tithenai 'to a place'. The question below the question was: when does a tool become a prosthesis, to which Ron provided the following answer:
+This, compounded by his encounter with _Understanding Media - The Extensions of Man_ by Marshall MacLuhan lead to the development of _Code as Prosthesis_ , a practice led research project. Why prosthesis? Etymologically, prosthesis finds its roots in prostithenai, from pros 'in addition' + tithenai 'to a place'. The question beneath the question was: when does a tool become a prosthesis, to which Ron provided the following answer:
 
 "_When it becomes so integrated into one's self as a means of sensing and controlling some dimension of the world, that it begins to function as part of oneself._"
 
