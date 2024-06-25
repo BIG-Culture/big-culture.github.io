@@ -1,3 +1,7 @@
 "CHI":
   url: https://dl.acm.org/conference/chi
   color: "#e0a23f"
+
+"NIME":
+  url: https://www.nime.org/
+  color: "#000000"
