@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/reading.md -->
 <div class="publications">
 
 {% bibliography --file reading_list %}
