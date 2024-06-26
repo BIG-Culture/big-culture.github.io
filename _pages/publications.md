@@ -9,7 +9,7 @@ nav_order: 4
 
 <!-- _pages/publications.md -->
 <div class="publications">
-
+In total, BIG Culture has contributed to {% bibliography_count %} papers.
 {% bibliography %}
 
 </div>
