@@ -9,3 +9,5 @@ related_publications: true
 ---
 
 [www.peteinfo.com](https://www.peteinfo.com)
+
+{% bibliography -q @*[author^=Bennett] %}
