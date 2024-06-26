@@ -9,5 +9,3 @@ related_publications: true
 ---
 
 [www.peteinfo.com](https://www.peteinfo.com)
-
-{% cite SensaBubble HighTechAndTactile bennett_beatbearing_200 NewsThings EchoSnapAndPlayableAle TanglibleInterfacesForIEC ResonantBits1 TopoTiles FugaciousFilm ResonantBits2 QuickAndDirty Hapticcues ChronoTape SmartHardHat Disruptabottle CuffLink Choptop TangiblesForHealth %}
