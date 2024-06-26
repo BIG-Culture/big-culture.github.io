@@ -5,3 +5,7 @@
 "NIME":
   url: https://www.nime.org/
   color: "#000000"
+
+"TEI":
+  url: https://tei.acm.org/
+  color: "#34461d"
