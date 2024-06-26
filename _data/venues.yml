@@ -2,6 +2,10 @@
   url: https://dl.acm.org/conference/chi
   color: "#e0a23f"
 
+"CSCW":
+  url: https://cscw.acm.org/
+  color: "#efb321"
+
 "NIME":
   url: https://www.nime.org/
   color: "#000000"
