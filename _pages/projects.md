@@ -5,7 +5,7 @@ permalink: /projects/
 description: We're working a variety of interdisciplinary projects combining technology and the arts.
 nav: true
 nav_order: 3
-display_categories: [open, ongoing, completed]
+display_categories: [open, ongoing, complete]
 horizontal: false
 ---
 
