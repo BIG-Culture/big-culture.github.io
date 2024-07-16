@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research on Synaesthesia
-description: Research on synaesthesia
+description: Interview and workshop study on Synaesthesia
 img: assets/img/projects/syn_mw_1.png
 importance: 1
 category: ongoing
