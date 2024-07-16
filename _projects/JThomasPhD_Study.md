@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Designing Immersive Experiences for Communicating Environmental Issues
-description: Exploring audience responses
+title: Immersive Econarratives
+description: Designing Immersive Experiences for Communicating Environmental Issues
 img: assets/img/Culture.png
 importance: 1
 category: ongoing
