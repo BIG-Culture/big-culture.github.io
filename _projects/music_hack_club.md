@@ -4,7 +4,7 @@ title: Music Hack Club
 description: A weekly meeting to make noise.
 img: assets/img/projects/MHC-wires-speakers.jpg
 importance: 1
-category: open
+category: ongoing
 related_publications: true
 ---
 
