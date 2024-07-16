@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Investigating the effects of language model player assistants on the social dynamics of table-top role-playing game groups
-description:
+title: PhD Summer Project
+description: Evaluating the effects of language model player assistants on the social dynamics of table-top role-playing game parties.
 img: assets/img/BIG.png
 importance: 1
 category: ongoing
