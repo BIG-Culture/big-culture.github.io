@@ -5,7 +5,7 @@ description: Research on synaesthesia
 img: assets/img/projects/syn_mw_1.png
 importance: 1
 category: ongoing
-related_publications: true
+related_publications: false
 ---
 
 Our research aims to explore the realm of communication surrounding synaesthesia: investigating how technology could support communication for synaesthetes (individuals who acknowledge their synaesthesia) and enable non-synaesthetes (individuals who have not acknowledged their synaesthesia) to explore and articulate their sensory experiences.
