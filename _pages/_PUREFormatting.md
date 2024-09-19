@@ -1,7 +1,6 @@
 ---
 layout: page
-permalink: /PURE.html
+permalink: /PURE/
 title: "PURE Formatting Preview"
 description: "Used to validate pure formatting."
-redirect: true
 ---

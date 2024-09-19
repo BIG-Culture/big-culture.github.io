@@ -29,7 +29,7 @@ tabs: true
 
 {% tab pure datasets %}
 
-<script src="//rss.bloople.net/?url=https%3A%2F%2Fresearch-information.bris.ac.uk%2Fen%2Fpersons%2Fpeter-d-bennett%2Fdatasets%2F%3Fformat%3Drss&detail=-1&showtitle=false&type=js"></script>
+<script src="//rss.bloople.net/?url=https%3A%2F%2Fresearch-information.bris.ac.uk%2Fen%2Fpersons%2Fpeter-d-bennett%2Fdatasets%2F%3Fformat%3Drss&showtitle=false&type=js"></script>
 
 {% endtab %}
 {% endtabs %}
