@@ -17,3 +17,7 @@ related_publications: false
 # Projects
 
 <script src="//rss.bloople.net/?url=https%3A%2F%2Fresearch-information.bris.ac.uk%2Fen%2Fpersons%2Fpeter-d-bennett%2Fprojects%2F%3Fformat%3Drss&detail=-1&showtitle=false&type=js"></script>
+
+# Datasets
+
+<script src="//rss.bloople.net/?url=https%3A%2F%2Fresearch-information.bris.ac.uk%2Fen%2Fpersons%2Fpeter-d-bennett%2Fdatasets%2F%3Fformat%3Drss&detail=-1&showtitle=false&type=js"></script>
