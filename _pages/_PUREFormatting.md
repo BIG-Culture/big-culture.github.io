@@ -3,6 +3,7 @@ layout: page
 permalink: /PURE/
 title: "PURE Formatting Preview"
 description: "Used to validate pure formatting."
+nav: false
 ---
 
 <h3 class="feed-title">
