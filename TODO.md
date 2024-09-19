@@ -5,4 +5,3 @@
 - [ ] Discuss keywords (config)
 - [ ] Discuss description (config)
 - [ ] Discuss repo theme (config)
- 
