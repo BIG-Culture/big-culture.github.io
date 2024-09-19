@@ -10,14 +10,25 @@ related_publications: false
 
 [www.peteinfo.com](https://www.peteinfo.com)
 
-# Publications
+# PURE
+
+{% tabs pure %}
+
+{% tab pure publications %}
 
 <script src="//rss.bloople.net/?url=https%3A%2F%2Fresearch-information.bris.ac.uk%2Fen%2Fpersons%2Fpeter-d-bennett%2Fpublications%2F%3Fformat%3Drss&detail=-1&showtitle=false&type=js"></script>
 
-# Projects
+{% endtab %}
+
+{% tab pure projects %}
 
 <script src="//rss.bloople.net/?url=https%3A%2F%2Fresearch-information.bris.ac.uk%2Fen%2Fpersons%2Fpeter-d-bennett%2Fprojects%2F%3Fformat%3Drss&detail=-1&showtitle=false&type=js"></script>
 
-# Datasets
+{% endtab %}
+
+{% tab pure datasets %}
 
 <script src="//rss.bloople.net/?url=https%3A%2F%2Fresearch-information.bris.ac.uk%2Fen%2Fpersons%2Fpeter-d-bennett%2Fdatasets%2F%3Fformat%3Drss&detail=-1&showtitle=false&type=js"></script>
+
+{% endtab %}
+{% endtabs %}
