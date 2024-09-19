@@ -6,6 +6,7 @@ img: assets/img/people/bennett.gif
 importance: 1
 category: academics #academics, associates, or students
 related_publications: false
+tabs: true
 ---
 
 [www.peteinfo.com](https://www.peteinfo.com)
