@@ -21,6 +21,8 @@ pagination:
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
+{% if site.display_tags or site.display_categories %}
+
   <div class="tag-category-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
@@ -88,6 +90,8 @@ pagination:
       </div>
     </div>
     <hr>
+
+{% endif %}
 
   <ul class="post-list">
 
