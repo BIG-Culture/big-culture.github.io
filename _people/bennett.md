@@ -11,8 +11,9 @@ tabs: true
 
 [www.peteinfo.com](https://www.peteinfo.com)
 
-# PURE
+# Publications and Projects
 
+Updated from University of Bristol's PURE
 {% tabs pure %}
 
 {% tab pure publications %}
