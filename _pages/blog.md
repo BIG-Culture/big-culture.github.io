@@ -89,8 +89,6 @@ pagination:
     </div>
     <hr>
 
-{% endif %}
-
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
