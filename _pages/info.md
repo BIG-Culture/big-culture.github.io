@@ -1,6 +1,5 @@
 ---
 layout: about
-title: info
 permalink: /
 nav: false
 nav_order: 1
