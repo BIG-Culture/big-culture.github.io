@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Evaluating the effects of language model player assistants on the social dynamics of table-top role-playing game parties.
-description: 
+description:
 img: assets/img/BIG.png
 importance: 1
 category: ongoing
