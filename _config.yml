@@ -9,6 +9,7 @@ email: peter.bennett@bristol.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The blog and website for BIG-Culture, a lab within the Bristol Interaction Group.
 footer_text: >
+  BIG Culture is a research lab within the <a href="http://biglab.co.uk/" target="_blank">Bristol Interaction Group</a> at the University of Bristol. </br>
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
