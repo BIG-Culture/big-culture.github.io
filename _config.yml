@@ -647,3 +647,5 @@ jsonresume:
   - interests
   - references
 
+active_support:
+  to_time_preserves_timezone: false
