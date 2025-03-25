@@ -41,7 +41,7 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- Upcoming events -->
-    <% if page.upcoming_events %>
+    {% if page.upcoming_events %}
       <h2>
         <a href="{{ '/events/' | relative_url }}" style="color: inherit">upcoming events</a>
       </h2>
