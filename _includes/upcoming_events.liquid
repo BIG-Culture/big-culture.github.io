@@ -1,6 +1,6 @@
 <div class="events">
   {% assign today = 'now' | date: '%Y-%m-%d' %}
-  {% assign upcoming_events = site.events | where_exp: "event", "event.date >= today" | sort: "date" %}
+  {% assign upcoming_events = site.events | where_exp: 'event', 'event.date >= today' | sort: 'date' %}
 
   {% if upcoming_events != empty %}
     <div class="table-responsive">
