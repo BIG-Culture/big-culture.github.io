@@ -161,6 +161,8 @@ collections:
   people:
     output: true
     permalink: /people/:path/
+  posts:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -264,6 +266,9 @@ jekyll-archives:
       categories: "/:type/:name/"
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  documents:
+    - posts
+    - books
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
@@ -643,6 +648,3 @@ jsonresume:
   - interests
   - references
 
-# fixes bug
-documents:
-  - posts
