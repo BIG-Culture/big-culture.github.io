@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: We're working a variety of interdisciplinary projects combining technology and the arts.
+permalink: /people/
+title: people
+description: staff and students engaged in BIG-Culture
 nav: true
-nav_order: 3
-display_categories: [open, ongoing, complete]
-horizontal: false
+nav_order: 2
+display_categories: [academics, students]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign categorized_projects = site.people | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.people | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
@@ -63,3 +63,31 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+## GitHub users
+
+{% if site.data.repositories.github_users %}
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for user in site.data.repositories.github_users %}
+    {% include repository/repo_user.liquid username=user %}
+  {% endfor %}
+</div>
+
+---
+
+{% if site.repo_trophies.enabled %}
+{% for user in site.data.repositories.github_users %}
+{% if site.data.repositories.github_users.size > 1 %}
+
+<h4>{{ user }}</h4>
+{% endif %}
+  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% include repository/repo_trophies.liquid username=user %}
+  </div>
+
+---
+
+{% endfor %}
+{% endif %}
+{% endif %}
