@@ -40,6 +40,14 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Upcoming events -->
+    <% if page.upcoming_events %>
+      <h2>
+        <a href="{{ '/events/' | relative_url }}" style="color: inherit">upcoming events</a>
+      </h2>
+      {% include upcoming_events.liquid %}
+    {% endif %}
+
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
