@@ -1,0 +1,20 @@
+<div class="events">
+  {% assign all_events = site.events | sort: 'date' %}
+
+  {% if all_events != empty %}
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        {% for event in all_events %}
+          <tr>
+            <th scope="row" style="width: 20%">{{ event.date | date: '%b %d, %Y' }}</th>
+            <td>
+              <a class="event-title" href="{{ event.url | relative_url }}">{{ event.title }}</a>
+            </td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No events available</p>
+  {% endif %}
+</div>
