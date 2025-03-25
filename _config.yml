@@ -642,3 +642,7 @@ jsonresume:
   - languages
   - interests
   - references
+
+# fixes bug
+documents:
+  - posts
