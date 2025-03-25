@@ -1,28 +1,9 @@
-"CHI":
-  url: https://dl.acm.org/conference/chi
-  color: "#e0a23f"
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
 
-"CMJ":
-  url: http://www.computermusicjournal.org/
+"PhysRev":
+  url: https://journals.aps.org/
 
-"CSCW":
-  url: https://cscw.acm.org/
-  color: "#efb321"
-
-"IJPADM":
-  url: https://www.tandfonline.com/toc/rpdm20/current
-
-"NIME":
-  url: https://www.nime.org/
-  color: "#000000"
-
-"NordiCHI":
-  url: https://nordichi.eu/
-  color: "#59fda9"
-
-"Frontiers":
-  url: https://www.frontiersin.org/
-
-"TEI":
-  url: https://tei.acm.org/
-  color: "#34461d"
+"Vision":
+  color: "#009f36"

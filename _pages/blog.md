@@ -1,9 +1,9 @@
 ---
 layout: default
-title: blog
 permalink: /blog/
+title: blog
 nav: true
-# nav_order: 1
+nav_order: 1
 pagination:
   enabled: true
   collection: posts
@@ -21,13 +21,21 @@ pagination:
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
-{% if site.display_tags or site.display_categories %}
+{% if blog_name_size > 0 or blog_description_size > 0 %}
+
+  <div class="header-bar">
+    <h1>{{ site.blog_name }}</h1>
+    <h2>{{ site.blog_description }}</h2>
+  </div>
+  {% endif %}
+
+{% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
   <div class="tag-category-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
         <li>
-          <i class="fa-solid fa-hashtag fa-sm"></i> <a href="{{ tag | slugify | prepend: '/tag/' | relative_url }}">{{ tag }}</a>
+          <i class="fa-solid fa-hashtag fa-sm"></i> <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">{{ tag }}</a>
         </li>
         {% unless forloop.last %}
           <p>&bull;</p>
@@ -38,7 +46,7 @@ pagination:
       {% endif %}
       {% for category in site.display_categories %}
         <li>
-          <i class="fa-solid fa-tag fa-sm"></i> <a href="{{ category | slugify | prepend: '/category/' | relative_url }}">{{ category }}</a>
+          <i class="fa-solid fa-tag fa-sm"></i> <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">{{ category }}</a>
         </li>
         {% unless forloop.last %}
           <p>&bull;</p>
@@ -77,7 +85,7 @@ pagination:
 
                     <p class="post-meta">
                       {{ read_time }} min read &nbsp; &middot; &nbsp;
-                      <a href="{{ year | prepend: '/' | prepend: site.baseurl}}">
+                      <a href="{{ year | prepend: '/blog/' | relative_url }}">
                         <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
                     </p>
                   </div>
@@ -140,13 +148,13 @@ pagination:
         {% endif %}
       </p>
       <p class="post-tags">
-        <a href="{{ year | prepend: '/' | prepend: site.baseurl}}">
+        <a href="{{ year | prepend: '/blog/' | relative_url }}">
           <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
 
           {% if tags != "" %}
           &nbsp; &middot; &nbsp;
             {% for tag in post.tags %}
-            <a href="{{ tag | slugify | prepend: '/tag/' | prepend: site.baseurl}}">
+            <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">
               <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
               {% unless forloop.last %}
                 &nbsp;
@@ -157,7 +165,7 @@ pagination:
           {% if categories != "" %}
           &nbsp; &middot; &nbsp;
             {% for category in post.categories %}
-            <a href="{{ category | slugify | prepend: '/category/' | prepend: site.baseurl}}">
+            <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">
               <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a>
               {% unless forloop.last %}
                 &nbsp;
@@ -171,7 +179,7 @@ pagination:
 </div>
 
   <div class="col-sm-3">
-    <img class="card-img" src="{{post.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
+    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
   </div>
 </div>
 {% endif %}

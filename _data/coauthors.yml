@@ -1,27 +1,34 @@
-"bennett":
-  - firstname: ["Peter D.", "Pete", "Peter", "P."]
-    url: https://www.peteinfo.com/
+"adams":
+  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"burnett":
-  - firstname: ["Jack", "J."]
-    url: https://jackjburnett.github.io/
+"podolsky":
+  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"joshi":
-  - firstname: ["Vishal", "V."]
-    url: https://big-culture.github.io/people/joshi/
+"rosen":
+  - firstname: ["Nathan", "N."]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"tanaka":
-  - firstname: ["Atau", "A."]
-    url: https://big-culture.github.io/people/tanaka/
+"bach":
+  - firstname: ["Johann Sebastian", "J. S."]
+    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-"thomas":
-  - firstname: ["Jacob", "J."]
-    url: https://big-culture.github.io/people/thomas/
+  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"thorne":
-  - firstname: ["Nate", "N."]
-    url: https://big-culture.github.io/people/thorne/
+"przibram":
+  - firstname: ["Karl"]
+    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"watanabe":
-  - firstname: ["Mamoru", "M."]
-    url: https://big-culture.github.io/people/watanabe/
+"schrodinger":
+  - firstname: ["Erwin"]
+    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+
+"lorentz":
+  - firstname: ["Hendrik Antoon"]
+    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+
+"planck":
+  - firstname: ["Max"]
+    url: https://en.wikipedia.org/wiki/Max_Planck
