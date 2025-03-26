@@ -116,23 +116,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/step_by_step/";
-            },},{id: "events-summer-festival-2025",
-          title: 'Summer Festival 2025',
-          description: "Join us for a day of fun, music, and great food at the annual Summer Festival!",
-          section: "Events",handler: () => {
-              window.location.href = "/events/example/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "events-the-summer-festival-2025-is-happening-on-july-15-2025-at-beach-park-barbados-expect-live-music-delicious-local-food-and-an-unforgettable-atmosphere-learn-more",
+          title: 'The Summer Festival 2025 is happening on July 15, 2025, at Beach Park,...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-big-culture-website-now-live",
+          section: "Events",},{id: "news-big-culture-website-now-live",
           title: 'BIG-Culture website now live',
           description: "",
           section: "News",},{id: "news-the-big-non-away-day-is-on-thursday-13th-june-at-13-30-in-mvb-1-11",
