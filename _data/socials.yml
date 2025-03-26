@@ -46,6 +46,6 @@ email: peter.bennett@bristol.ac.uk # your email address
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://biglab.co.uk/static/website/images/BIG_logo_inverse.png # can be png, svg, jpg
+  logo: https://big-culture.github.io/assets/img/BIG_Logo.png # can be png, svg, jpg
   title: BIG Lab
   url: https://biglab.co.uk/
