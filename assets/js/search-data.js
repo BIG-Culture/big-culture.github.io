@@ -116,6 +116,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/step_by_step/";
+            },},{id: "events-summer-festival-2025",
+          title: 'Summer Festival 2025',
+          description: "Join us for a day of fun, music, and great food at the annual Summer Festival!",
+          section: "Events",handler: () => {
+              window.location.href = "/events/example/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
