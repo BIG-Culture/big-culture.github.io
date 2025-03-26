@@ -9,5 +9,4 @@ publisher: Palgrave Macmillan
 address: Cham, SWITZERLAND
 tags: theater immersive-experience
 status: interested
-library_link: #todo
 ---

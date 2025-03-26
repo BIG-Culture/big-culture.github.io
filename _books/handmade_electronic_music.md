@@ -8,6 +8,4 @@ publisher: Taylor and Francis
 categories: electronic-music DIY
 tags: sound hardware hacking
 status: interested
-library_link: #todo
-
 ---

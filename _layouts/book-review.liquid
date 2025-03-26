@@ -62,13 +62,13 @@ layout: default
             </a>
           {% endif %}
         {% endif %}
-        {% if page.library_link %}
+        {% if page.buy_link %}
           {% if page.started or page.finished or page.stars %}
             &nbsp;&middot;&nbsp;
           {% endif %}
-          <a target="_blank" href="{{ page.library_link }}"
-            ><i class="fa-solid fa-book"></i>
-            {% assign is_amazon_link = page.library_link | slice: 0, 19 %}
+          <a target="_blank" href="{{ page.buy_link }}"
+            ><i class="fa-solid fa-cart-shopping"></i>
+            {% assign is_amazon_link = page.buy_link | slice: 0, 19 %}
             {% if is_amazon_link == 'https://www.amazon.' %}
               <i class="fa-brands fa-amazon"></i>
             {% endif %}
@@ -159,86 +159,86 @@ layout: default
 </div>
 
 <style>
-      figure {
-        float: none;
-        width: auto;
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
+   figure {
+       float: none;
+       width: auto;
+       display: block;
+       margin-right: auto;
+       margin-left: auto;
 
-      }
-      figure  > img {
+   }
+   figure  > img {
 
+       vertical-align: top;
+       display: block;
+       margin-right: 0px;
+       margin-left: 0px;
+       padding: 0px;
+
+   }
+   figure figcaption {
+
+       display: block;
+       caption-side: bottom;
+       text-align: center;
+   }
+
+   @media screen and (min-width: 600px)  {
+
+       .empty-review{
+           float: left;
+           display: block; /* in-line block; */
+           margin: 0px 0px 0px 0px;  /* adjust as needed */
+           padding: 0px 0px 0px 20px;
+           /* top right bottom left */
+       }
+
+       .empty-review-caption {
+           caption-side: left;
+           text-align: left;
+
+
+       }
+
+       .empty-review-cover {
+           width:250px;
            vertical-align: top;
-           display: block;
-           margin-right: 0px;
-           margin-left: 0px;
-           padding: 0px;
+           padding-right: 40px;
+       }
 
-      }
-      figure figcaption {
+       figure {
 
-        display: block;
-        caption-side: bottom;
-        text-align: center;
-      }
+           float: right;
+           display: in-line block; /* in-line block; */
+           margin: 0px 0px 0px 0px;  /* adjust as needed */
+           padding: 0px 0px 0px 20px;
+           /* top right bottom left */
+       }
 
-      @media screen and (min-width: 600px)  {
+       figure img {
+           width:300px;
+           vertical-align: top;
 
-        .empty-review{
-          float: left;
-          display: block; /* in-line block; */
-          margin: 0px 0px 0px 0px;  /* adjust as needed */
-          padding: 0px 0px 0px 20px;
-         /* top right bottom left */
-          }
+       }
 
-         .empty-review-caption {
-                  caption-side: left;
-                  text-align: left;
+       figure figcaption {
+           caption-side: bottom;
+           text-align: left;
 
+       }
 
-                  }
+       .mobile-break { display: none; }
 
-          .empty-review-cover {
-              width:250px;
-              vertical-align: top;
-              padding-right: 40px;
-              }
+       /* =Blockquote
+       -------------------------------------------------------------- */
+       blockquote {
 
-          figure {
+           position: relative;
+           marign: 0px;
+           display: table;
 
-                float: right;
-                display: in-line block; /* in-line block; */
-                margin: 0px 0px 0px 0px;  /* adjust as needed */
-                padding: 0px 0px 0px 20px;
-               /* top right bottom left */
-              }
-
-          figure img {
-                  width:300px;
-                  vertical-align: top;
-
-                }
-
-          figure figcaption {
-                  caption-side: bottom;
-                  text-align: left;
-
-                  }
-
-          .mobile-break { display: none; }
-
-  /* =Blockquote
-  -------------------------------------------------------------- */
-  blockquote {
-
-      position: relative;
-      marign: 0px;
-      display: table;
-
-  }
-  blockquote:before, blockquote:after {
+       }
+       blockquote:before, blockquote:after {
 
    /* properties to format the block quotes /*
 

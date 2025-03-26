@@ -10,5 +10,4 @@ publisher: University of Alberta Press
 address: Edmonton, Alberta
 tags: methodology creativity academia
 status: interested
-library_link: #todo
 ---
