@@ -19,7 +19,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 events:
-  enabled: true  
+  enabled: true
   upcoming: true
   limit: 5
   scrollable: true

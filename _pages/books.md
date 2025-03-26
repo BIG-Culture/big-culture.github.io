@@ -6,4 +6,5 @@ nav: true
 nav_order: 6
 collection: books
 ---
+
 ## BIG Culture's Suggested Reading
