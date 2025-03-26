@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of BIG-Culture's projects.
+description: a growing collection of BIG-Culture's projects.
 nav: true
 nav_order: 5
 display_categories: [ongoing, complete]
