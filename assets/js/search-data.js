@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of BIG-Culture&#39;s projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -110,51 +110,77 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "news-big-culture-website-now-live",
+          title: 'BIG-Culture website now live',
+          description: "",
+          section: "News",},{id: "news-the-big-non-away-day-is-on-thursday-13th-june-at-13-30-in-mvb-1-11",
+          title: 'The BIG Non-Away Day is on Thursday 13th June, at 13:30 in MVB...',
+          description: "",
+          section: "News",},{id: "news-today-ron-herrema-will-be-giving-a-talk-at-14-00-in-mvb-2-19",
+          title: 'Today Ron Herrema will be giving a talk at 14:00 in MVB 2.19...',
+          description: "",
+          section: "News",},{id: "news-quick-reminder-that-the-big-non-away-day-is-today-at-13-30-in-mvb-1-11",
+          title: 'Quick reminder that the BIG Non-Away Day is today, at 13:30 in MVB...',
+          description: "",
+          section: "News",},{id: "news-atau-will-be-giving-a-talk-on-a-late-breaking-paper-in-the-big-meeting-on-thursday",
+          title: 'Atau will be giving a talk on a late-breaking paper in the BIG...',
+          description: "",
+          section: "News",},{id: "news-bdgl-larian-studios-workshop-signup",
+          title: 'BDGL Larian Studios Workshop Signup.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024_10_22_larian/";
+            },},{id: "news-join-us-at-music-hack-club-most-wednesdays-at-4pm-in-mvb-3-10",
+          title: 'Join us at Music Hack Club, most Wednesdays at 4pm in MVB 3.10....',
+          description: "",
+          section: "News",},{id: "news-atau-tanaka-and-robin-dussurget-will-present-neurodiversity-muscle-sensing-and-modular-synthesis-performance-at-the-one-handed-musical-instrument-ohmi",
+          title: 'Atau Tanaka and Robin Dussurget will present “Neurodiversity, Muscle Sensing and Modular Synthesis...',
+          description: "",
+          section: "News",},{id: "projects-16x16",
+          title: '16x16',
+          description: "An audiovisual sequencer installation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/16x16/";
+            },},{id: "projects-aimc-workshop",
+          title: 'AIMC workshop',
+          description: "A Synth made of Chicken Nuggets you Play with your Elbows - Exploring AI-supported Musical Instrument Design",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/AIMC_workshop/";
+            },},{id: "projects-immersive-econarratives",
+          title: 'Immersive Econarratives',
+          description: "Designing Immersive Experiences for Communicating Environmental Issues",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/JThomasPhD_Study/";
+            },},{id: "projects-the-creative-conteract",
+          title: 'The Creative Conteract',
+          description: "Interview and workshop study by Domenica Landin and Mamoru Watanabe",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/creativecontract/";
+            },},{id: "projects-improvcues",
+          title: 'improvcues',
+          description: "improvisation with generative oblique strategies",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/improvCues/";
+            },},{id: "projects-music-hack-club",
+          title: 'Music Hack Club',
+          description: "A weekly meeting to make noise.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/music_hack_club/";
+            },},{id: "projects-research-on-synaesthesia",
+          title: 'Research on Synaesthesia',
+          description: "Interview and workshop study on Synaesthesia",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+              window.location.href = "/projects/synaesthesia_study/";
+            },},{id: "projects-llms-and-ttrpgs",
+          title: 'LLMs and TTRPGs',
+          description: "Evaluating the effects of language model player assistants on the social dynamics of table-top role-playing game parties.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/vishal_summer_project/";
+            },},{id: "projects-website-design",
+          title: 'Website Design',
+          description: "help design the BIG Culture Website",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/website_design/";
             },},{
         id: 'social-email',
         title: 'email',
