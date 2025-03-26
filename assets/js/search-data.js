@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-bookshelf",
+          title: "bookshelf",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -66,11 +73,56 @@ ninja.data = [{
             window.open("https://quest.mit.edu/news/intersensory-data-representations-black-hole", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-an-individual-note-of-music-sound-and-electronics",
+          title: 'An Individual Note: Of Music, Sound and Electronics',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/an_individual_note/";
+            },},{id: "books-art-as-experience",
+          title: 'Art as Experience',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/art_as_experience/";
+            },},{id: "books-composing-electronic-music-a-new-aesthetic",
+          title: 'Composing Electronic Music: A New Aesthetic',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/composing_electronic_music/";
+            },},{id: "books-handmade-electronic-music-the-art-of-hardware-hacking",
+          title: 'Handmade Electronic Music: The Art of Hardware Hacking',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/handmade_electronic_music/";
+            },},{id: "books-immersive-embodiment-theatres-of-mislocalized-sensation",
+          title: 'Immersive Embodiment: Theatres of Mislocalized Sensation',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/immersive_embodiment/";
+            },},{id: "books-knowings-amp-knots-methodologies-and-ecologies-in-research-creation",
+          title: 'Knowings &amp;amp; Knots: Methodologies and Ecologies in Research-Creation',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/knowings_and_knots/";
+            },},{id: "books-live-visuals-history-theory-practice",
+          title: 'Live Visuals: History, Theory, Practice',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/live_visuals/";
+            },},{id: "books-play-matters",
+          title: 'Play Matters',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/play_matters/";
+            },},{id: "books-audiovisuology-compendium-see-this-sound-an-interdisciplinary-survey-of-audiovisual-culture",
+          title: 'Audiovisuology Compendium: See This Sound - An Interdisciplinary Survey of Audiovisual Culture',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/see_this_sound/";
+            },},{id: "books-step-by-step-adventures-in-sequencing-with-max-msp",
+          title: 'Step by Step: Adventures in Sequencing with Max/MSP',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/step_by_step/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
