@@ -69,6 +69,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/art_as_experience/";
+            },},{id: "books-audiovisuology-compendium-see-this-sound-an-interdisciplinary-survey-of-audiovisual-culture",
+          title: 'Audiovisuology Compendium: See This Sound - An Interdisciplinary Survey of Audiovisual Culture',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/audiovisuology/";
             },},{id: "books-composing-electronic-music-a-new-aesthetic",
           title: 'Composing Electronic Music: A New Aesthetic',
           description: "",
@@ -99,11 +104,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/play_matters/";
-            },},{id: "books-audiovisuology-compendium-see-this-sound-an-interdisciplinary-survey-of-audiovisual-culture",
-          title: 'Audiovisuology Compendium: See This Sound - An Interdisciplinary Survey of Audiovisual Culture',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/see_this_sound/";
             },},{id: "books-step-by-step-adventures-in-sequencing-with-max-msp",
           title: 'Step by Step: Adventures in Sequencing with Max/MSP',
           description: "",
