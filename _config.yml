@@ -85,8 +85,8 @@ bing_site_verification: F6B76A94DB2D1F349240696196EFF2E0 # out your bing-site-ve
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: BIG Culture # blog_name will be displayed in your blog page
-blog_description: a Lab within <a href='http://biglab.co.uk/'>BIG</a>
+blog_name: BIG Culture's Blog # blog_name will be displayed in your blog page
+blog_description: a research lab within <a href='http://biglab.co.uk/'>BIG</a>
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 future: true
