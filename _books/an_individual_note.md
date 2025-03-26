@@ -9,4 +9,7 @@ publisher: Galliard Limited
 categories: electronic-music sound-art
 tags: music electronics experimentation
 status: interested
+stars: #todo
+library_link: #todo
+
 ---

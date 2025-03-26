@@ -62,13 +62,13 @@ layout: default
             </a>
           {% endif %}
         {% endif %}
-        {% if page.buy_link %}
+        {% if page.library_link %}
           {% if page.started or page.finished or page.stars %}
             &nbsp;&middot;&nbsp;
           {% endif %}
-          <a target="_blank" href="{{ page.buy_link }}"
-            ><i class="fa-solid fa-cart-shopping"></i>
-            {% assign is_amazon_link = page.buy_link | slice: 0, 19 %}
+          <a target="_blank" href="{{ page.library_link }}"
+            ><i class="fa-solid fa-book"></i>
+            {% assign is_amazon_link = page.library_link | slice: 0, 19 %}
             {% if is_amazon_link == 'https://www.amazon.' %}
               <i class="fa-brands fa-amazon"></i>
             {% endif %}
