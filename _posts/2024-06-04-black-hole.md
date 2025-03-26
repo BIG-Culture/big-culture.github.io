@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intersensory data representations of a black hole
-date: 2024-06-04 15:00:00
+date: 2024-06-04 15:00:00 +0100
 description: Interesting reading about Dr. Kyle Keane's research
 tags: reading
 featured: false
