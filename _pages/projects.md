@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: We're working a variety of interdisciplinary projects combining technology and the arts.
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [open, ongoing, complete]
+display_categories: [work, fun]
 horizontal: false
 ---
 
