@@ -8,5 +8,5 @@ cover: assets/img/books/0852491093.jpg
 publisher: Galliard Limited
 categories: electronic-music sound-art
 tags: music electronics experimentation
-status: interested
+short_title: "An Individual Note"
 ---

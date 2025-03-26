@@ -7,5 +7,5 @@ isbn: 9780195373233
 publisher: Oxford University Press
 categories: electronic-music composition
 tags: aesthetics sound-design creativity
-status: interested
+short_title: Composing Electronic Music"
 ---

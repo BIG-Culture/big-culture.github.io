@@ -7,5 +7,5 @@ isbn: 9780203959527
 publisher: Taylor and Francis
 categories: electronic-music DIY
 tags: sound hardware hacking
-status: interested
+short_title: "Handmade Electronic Music"
 ---

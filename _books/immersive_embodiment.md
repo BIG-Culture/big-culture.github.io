@@ -8,5 +8,5 @@ released: 2020
 publisher: Palgrave Macmillan
 address: Cham, SWITZERLAND
 tags: theater immersive-experience
-status: interested
+short_title: "Immersive Embodiment"
 ---

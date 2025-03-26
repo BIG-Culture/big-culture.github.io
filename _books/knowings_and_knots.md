@@ -9,5 +9,5 @@ released: 2020
 publisher: University of Alberta Press
 address: Edmonton, Alberta
 tags: methodology creativity academia
-status: interested
+short_title: "Knowings & Knots"
 ---

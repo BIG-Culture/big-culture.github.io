@@ -7,5 +7,5 @@ released: 2010
 publisher: Walther König, Köln
 categories: audiovisual sound-art
 tags: media theory sound-visuals
-status: interested
+short_title: "Audiovisuology"
 ---

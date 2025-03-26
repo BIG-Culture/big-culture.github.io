@@ -7,5 +7,5 @@ isbn: 9781732590304
 publisher: Cycling '74
 categories: electronic-music software
 tags: sequencing MaxMSP music-technology
-status: interested
+short_title: "Step by Step"
 ---

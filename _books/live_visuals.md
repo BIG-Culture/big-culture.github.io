@@ -8,5 +8,5 @@ isbn: 9781032252681
 publisher: Routledge
 categories: live-performance visuals
 tags: VJing performance-art technology
-status: interested
+short_title: "Live Visuals"
 ---

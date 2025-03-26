@@ -7,5 +7,5 @@ isbn: 9780399531972
 publisher: TarcherPerigee
 categories: philosophy aesthetics
 tags: art experience theory
-status: interested
+short_title: "Art as Experience"
 ---
