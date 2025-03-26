@@ -1,6 +1,6 @@
 ---
 title: "Join us at South-West UK Pre-CHI 2025, April 14th-15th in Bristol"
-date: 2025-07-15 09:00:00 +0100
+date: 2025-04-14 09:00:00 +0100
 inline: true
 ---
 
