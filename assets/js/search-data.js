@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-",
-          title: "",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/";
-          },
-        },{id: "nav-blog",
+  },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -123,7 +116,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/step_by_step/";
-            },},{id: "events-the-summer-festival-2025-is-happening-on-july-15-2025-at-beach-park-barbados-expect-live-music-delicious-local-food-and-an-unforgettable-atmosphere-learn-more",
+            },},{id: "events-the-summer-festival-2024-is-happening-on-july-15-2025-at-beach-park-barbados-expect-live-music-delicious-local-food-and-an-unforgettable-atmosphere-learn-more",
+          title: 'The Summer Festival 2024 is happening on July 15, 2025, at Beach Park,...',
+          description: "",
+          section: "Events",},{id: "events-the-summer-festival-2025-is-happening-on-july-15-2025-at-beach-park-barbados-expect-live-music-delicious-local-food-and-an-unforgettable-atmosphere-learn-more",
           title: 'The Summer Festival 2025 is happening on July 15, 2025, at Beach Park,...',
           description: "",
           section: "Events",},{id: "news-big-culture-website-now-live",
