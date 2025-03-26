@@ -142,6 +142,8 @@ collections:
     output: true
   projects:
     output: true
+  people:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
