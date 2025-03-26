@@ -5,7 +5,7 @@ author: Dieter Daniels, Sandra Naumann
 isbn: 9783865606860
 released: 2010
 publisher: Walther König, Köln
-categories: audiovisual, sound-art
-tags: media, theory, sound-visuals
+categories: audiovisual sound-art
+tags: media theory sound-visuals
 status: interested
 ---

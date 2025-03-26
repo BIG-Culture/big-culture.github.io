@@ -5,7 +5,7 @@ author: Gregory Taylor
 released: 2018
 isbn: 9781732590304
 publisher: Cycling '74
-categories: electronic-music, software
-tags: sequencing, MaxMSP, music-technology
+categories: electronic-music software
+tags: sequencing MaxMSP music-technology
 status: interested
 ---

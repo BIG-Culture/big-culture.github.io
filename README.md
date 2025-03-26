@@ -18,6 +18,18 @@ To create a new blog post, you can add a new Markdown file in the [\_posts](_pos
 
 If you want to create blog posts that are not ready to be published but you want to track them with git, you can store them in the [\_drafts](_drafts/) directory.
 
+### Books
+
+You can add a new book by adding a new Markdown file in the [\_books](_books/) directory.
+
+### Events
+
+You can add a new event by adding a new Markdown file in the [\_events](_events/) directory.
+
+### News
+
+You can add a new news item by adding a new Markdown file in the [\_news](_news/) directory.
+
 ### People
 
 You can add a new person by adding a new Markdown file in the [\_people](_people/) directory.

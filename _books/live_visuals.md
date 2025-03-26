@@ -6,7 +6,7 @@ released: 2022
 cover: assets/img/books/9781032252681.jpg
 isbn: 9781032252681
 publisher: Routledge
-categories: live-performance, visuals
-tags: VJing, performance-art, technology
+categories: live-performance visuals
+tags: VJing performance-art technology
 status: interested
 ---
