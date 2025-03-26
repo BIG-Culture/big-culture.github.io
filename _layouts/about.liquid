@@ -40,6 +40,14 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Events -->
+    {% if page.events and page.events.enabled %}
+      <h2>
+        <a href="{{ '/events/' | relative_url }}" style="color: inherit">find us at these events</a>
+      </h2>
+      {% include events.liquid limit=true %}
+    {% endif %}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
