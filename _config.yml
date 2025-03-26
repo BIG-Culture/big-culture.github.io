@@ -144,6 +144,11 @@ collections:
     output: true
   people:
     output: true
+  events:
+    defaults:
+      layout: post
+    output: true
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
