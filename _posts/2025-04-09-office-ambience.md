@@ -3,8 +3,8 @@ layout: post
 title: Office Ambience
 date: 2025-04-09 14:00:00 +0100
 description: Tune in to the Office Ambience playlist
-tags: misc
-categories: misc
+tags: listening
+categories: listening
 featured: true
 giscus_comments: true
 thumbnail: assets/img/speakers/office-ambience.png
