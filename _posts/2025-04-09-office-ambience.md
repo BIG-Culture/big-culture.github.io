@@ -7,7 +7,7 @@ tags: listening
 categories: listening
 featured: true
 giscus_comments: true
-thumbnail: assets/img/speakers/office-ambience.png
+thumbnail: assets/img/office-ambience.png
 ---
 
 # Office Ambience
