@@ -7,7 +7,7 @@ tags: misc
 categories: misc
 featured: true
 giscus_comments: true
-thumbnail: 
+thumbnail: assets/img/speakers/office-ambience.png
 ---
 
 # Office Ambience
