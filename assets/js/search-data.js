@@ -223,6 +223,11 @@ ninja.data = [{
           description: "A weekly meeting to make noise.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/music_hack_club/";
+            },},{id: "projects-squishy-sonics",
+          title: 'Squishy Sonics',
+          description: "Making AI music with clay",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/squishy-sonics/";
             },},{id: "projects-research-on-synaesthesia",
           title: 'Research on Synaesthesia',
           description: "Interview and workshop study on Synaesthesia",
