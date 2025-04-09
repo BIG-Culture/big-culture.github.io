@@ -2,9 +2,9 @@
 layout: page
 title: Squishy Sonics
 description: Making AI music with clay
-img: assets/img/projects/squishy-sonics.png
+img: assets/img/projects/squishy-sonics-01.png
 importance: 1
-category: complete
+category: ongoing
 related_publications: true
 ---
 
