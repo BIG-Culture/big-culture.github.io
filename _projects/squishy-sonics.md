@@ -15,3 +15,5 @@ The system comprises three modular elements: a camera, an interface-to-sound map
 Project by Trish Khallaghi, supervised by Atau Tanaka and Pete Bennett
 
 Squishy-Sonics Github repo: https://github.com/trishaqk/squishy-sonics
+
+Squishy-Sonics will be presented as a demo in the Interactivity track of CHI'25 in Yokohama, Japan
