@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-ron-herrema-talk",
+        },{id: "post-office-ambience",
+        
+          title: "Office Ambience",
+        
+        description: "Tune in to the Office Ambience playlist",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/office-ambience/";
+          
+        },
+      },{id: "post-ron-herrema-talk",
         
           title: "Ron Herrema talk",
         
