@@ -208,8 +208,8 @@ ninja.data = [{
           description: "Designing Immersive Experiences for Communicating Environmental Issues",
           section: "Projects",handler: () => {
               window.location.href = "/projects/JThomasPhD_Study/";
-            },},{id: "projects-the-creative-contract",
-          title: 'The Creative Contract',
+            },},{id: "projects-the-creative-conteract",
+          title: 'The Creative Conteract',
           description: "Interview and workshop study by Domenica Landin and Mamoru Watanabe",
           section: "Projects",handler: () => {
               window.location.href = "/projects/creativecontract/";
