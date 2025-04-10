@@ -149,11 +149,11 @@ ninja.data = [{
             },},{id: "news-join-us-at-music-hack-club-most-wednesdays-at-4pm-in-mvb-3-10",
           title: 'Join us at Music Hack Club, most Wednesdays at 4pm in MVB 3.10....',
           description: "",
-          section: "News",},{id: "news-our-guest-talk-quot-atmospheric-listening-music-instruments-for-attuning-to-the-weather-quot-by-juan-c-duarte-https-juanduarteregino-com-at-15-00-16-00-in-mvb-2-59",
+          section: "News",},{id: "news-our-guest-talk-quot-atmospheric-listening-music-instruments-for-attuning-to-the-weather-quot-by-quot-juan-c-duarte-quot-https-juanduarteregino-com-at-15-00-16-00-in-mvb-2-59",
           title: 'Our guest talk &amp;quot;Atmospheric Listening - Music Instruments for Attuning to the Weather&amp;quot;...',
           description: "",
-          section: "News",},{id: "news-our-guest-talk-by-riaan-vosloo-https-www-riaanvosloomusic-com-at-15-00-16-00-in-mvb-2-19a",
-          title: 'Our guest talk by Riaan Vosloo (https://www.riaanvosloomusic.com/) at 15:00-16:00 in MVB 2.19a.',
+          section: "News",},{id: "news-our-guest-talk-by-quot-riaan-vosloo-quot-https-www-riaanvosloomusic-com-at-15-00-16-00-in-mvb-2-19a",
+          title: 'Our guest talk by [&amp;quot;Riaan Vosloo&amp;quot;](https://www.riaanvosloomusic.com/) at 15:00-16:00 in MVB 2.19a.',
           description: "",
           section: "News",},{id: "news-atau-tanaka-and-robin-dussurget-will-present-neurodiversity-muscle-sensing-and-modular-synthesis-performance-at-the-one-handed-musical-instrument-ohmi",
           title: 'Atau Tanaka and Robin Dussurget will present “Neurodiversity, Muscle Sensing and Modular Synthesis...',
@@ -208,8 +208,8 @@ ninja.data = [{
           description: "Designing Immersive Experiences for Communicating Environmental Issues",
           section: "Projects",handler: () => {
               window.location.href = "/projects/JThomasPhD_Study/";
-            },},{id: "projects-the-creative-conteract",
-          title: 'The Creative Conteract',
+            },},{id: "projects-the-creative-contract",
+          title: 'The Creative Contract',
           description: "Interview and workshop study by Domenica Landin and Mamoru Watanabe",
           section: "Projects",handler: () => {
               window.location.href = "/projects/creativecontract/";
