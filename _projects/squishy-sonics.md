@@ -2,11 +2,13 @@
 layout: page
 title: Squishy Sonics
 description: Making AI music with clay
-img: assets/img/projects/squishy-sonics-01.png
+img: assets/img/projects/squishy-sonics-02-square.png
 importance: 1
 category: ongoing
 related_publications: true
 ---
+
+![](assets/img/projects/squishy-sonics-02.png)
 
 SquishySonics is an interface designed to explore mappings between organic physical shapes made through interactions with deformable materials and sound production using machine learning. Deformable materials are proposed as an intuitive yet ambiguous medium for interfacing with AI-driven techniques, such as navigating the latent space in complex AI audio models, which are often difficult for musicians to understand and control expressively.
 
@@ -17,3 +19,5 @@ Project by Trish Khallaghi, supervised by Atau Tanaka and Pete Bennett
 Squishy-Sonics Github repo: https://github.com/trishaqk/squishy-sonics
 
 Squishy-Sonics will be presented as a demo in the Interactivity track of CHI'25 in Yokohama, Japan
+
+![](assets/img/projects/squishy-sonics-03.png)
