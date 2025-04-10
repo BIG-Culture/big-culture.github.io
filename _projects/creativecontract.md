@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Creative Conteract
+title: The Creative Contract
 description: Interview and workshop study by Domenica Landin and Mamoru Watanabe
 img: assets/img/projects/IRCAM2024_mw.jpg
 importance: 1
